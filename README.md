@@ -184,3 +184,9 @@ The frontend will run on `http://localhost:3000`
 - TypeScript
 - Tailwind CSS
 - Axios
+
+
+npm install  .....same for both
+npm run dev
+
+npm run start:dev   # backend

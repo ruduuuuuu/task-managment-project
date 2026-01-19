@@ -19,7 +19,7 @@ import { Task } from './entities/task.entity';
         host: configService.get<string>('DB_HOST') || 'localhost',
         port: parseInt(configService.get<string>('DB_PORT') || '3306'),
         username: configService.get<string>('DB_USERNAME') || 'root',
-        password: configService.get<string>('DB_PASSWORD') || '',
+        password: configService.get<string>('DB_PASSWORD') || 'Rudita@12345',
         database: configService.get<string>('DB_DATABASE') || 'task_management',
         synchronize: false, // Set to false since tables already exist
         logging: false,
