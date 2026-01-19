@@ -1,6 +1,6 @@
 # Task Management Application
 
-A full-stack task management application built with Next.js (frontend) and Express + TypeORM (backend) with MySQL database.
+A full-stack task management application built with Next.js (frontend) and Nestjs + TypeORM (backend) with MySQL database.
 
 ## Features
 
